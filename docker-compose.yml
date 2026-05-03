@@ -1,0 +1,90 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./app/frontend
+      dockerfile: Dockerfile
+      target: development
+    ports:
+      - "5173:5173"
+    environment:
+      - NODE_ENV=development
+      - VITE_API_URL=http://localhost:8000
+    volumes:
+      - ./app/frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:5173"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  backend:
+    build:
+      context: ./app/backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - PORT=8000
+      - CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
+      - LOG_LEVEL=info
+      # Optional: Add OpenAI API key if available
+      # - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./app/backend:/app
+      - ./app/data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    command: python main.py
+
+  # Production services (commented out for development)
+  # frontend-prod:
+  #   build:
+  #     context: ./app/frontend
+  #     dockerfile: Dockerfile
+  #     target: production
+  #   ports:
+  #     - "3000:80"
+  #   depends_on:
+  #     - backend
+  #   restart: unless-stopped
+  #   profiles:
+  #     - production
+
+  # backend-prod:
+  #   build:
+  #     context: ./app/backend
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - "8000:8000"
+  #   environment:
+  #     - PYTHONPATH=/app
+  #     - PORT=8000
+  #     - NODE_ENV=production
+  #     - CORS_ORIGINS=http://localhost:3000
+  #   volumes:
+  #     - ./app/data:/app/data
+  #   restart: unless-stopped
+  #   profiles:
+  #     - production
+
+networks:
+  default:
+    name: scheme-advisor-network
+    driver: bridge
+
+volumes:
+  node_modules:
+  data:

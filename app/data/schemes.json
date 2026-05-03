@@ -1,0 +1,214 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "description": "A central sector scheme to provide income support to all landholder farmer families across the country, subject to certain exclusions, to supplement their financial needs for procuring various inputs related to agriculture and allied activities.",
+    "eligibility": [
+      "Small and marginal farmers",
+      "Landholding farmer families",
+      " cultivators and tenant farmers",
+      "Annual income less than ₹6,00,000",
+      "Must have land records in their name"
+    ],
+    "benefits": "₹6,000 per year in three equal installments of ₹2,000 each, transferred directly to the bank accounts of eligible farmer families.",
+    "documents_required": [
+      "Aadhaar card",
+      "Land records/land documents",
+      "Bank account details",
+      "Residence proof",
+      "Identity proof (Voter ID/Driving License)"
+    ],
+    "application_process": "1. Register on PM-KISAN portal (pmkisan.gov.in)\n2. Fill the application form with personal and land details\n3. Upload required documents\n4. Submit application for verification\n5. Application verified by state authorities\n6. Amount transferred to registered bank account",
+    "state": "All India",
+    "category": "agriculture",
+    "income_limit": 600000,
+    "official_link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pm_awas_yojana",
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "description": "Housing for All initiative aimed at providing affordable housing to the urban poor by 2022. The mission addresses housing shortage through credit linked subsidy, affordable housing in partnership, and subsidy for beneficiary-led individual house construction.",
+    "eligibility": [
+      "Economically Weaker Sections (EWS)",
+      "Low Income Groups (LIG)",
+      "Middle Income Groups (MIG)",
+      "Annual family income up to ₹18,00,000 for MIG-II",
+      "Should not own a pucca house anywhere in India"
+    ],
+    "benefits": "Interest subsidy of up to 6.50% on home loans for 20 years, reducing EMI burden. Maximum subsidy of ₹2.67 lakh for MIG-II category.",
+    "documents_required": [
+      "Aadhaar card",
+      "PAN card",
+      "Income certificate",
+      "Address proof",
+      "Bank account details",
+      "Photographs",
+      "No-own-house declaration"
+    ],
+    "application_process": "1. Apply through Common Service Centers or online portal\n2. Submit application with required documents\n3. Verification by concerned authorities\n4. Sanction of subsidy based on eligibility\n5. Disbursement through bank account",
+    "state": "All India",
+    "category": "housing",
+    "income_limit": 1800000,
+    "official_link": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "national_scholarship_portal",
+    "name": "National Scholarship Portal (NSP)",
+    "description": "Centralized platform for various scholarship schemes offered by central and state governments for students belonging to economically weaker sections, minority communities, and other deserving categories.",
+    "eligibility": [
+      "Students from class 1 to post-graduation",
+      "Minimum 50% marks in previous examination",
+      "Annual family income less than ₹2,00,000 for SC/ST",
+      "Annual family income less than ₹1,00,000 for OBC",
+      "Should be studying in recognized institution"
+    ],
+    "benefits": "Monthly stipend ranging from ₹300 to ₹10,000 depending on the course and category. Complete fee reimbursement for eligible students.",
+    "documents_required": [
+      "Aadhaar card",
+      "Mark sheets of last examination",
+      "Income certificate",
+      "Caste certificate (if applicable)",
+      "Bank account details",
+      "Student ID proof",
+      "Residence certificate"
+    ],
+    "application_process": "1. Register on National Scholarship Portal (scholarships.gov.in)\n2. Select relevant scholarship scheme\n3. Fill application form with academic details\n4. Upload required documents\n5. Submit application for verification\n6. Verification by institute and state authorities\n7. Scholarship amount disbursed to bank account",
+    "state": "All India",
+    "category": "education",
+    "income_limit": 200000,
+    "official_link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "ujjwala_yojana",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "A scheme aimed at providing LPG connections to women from BPL households to reduce health hazards caused by cooking with fossil fuels and to prevent indoor air pollution.",
+    "eligibility": [
+      "Adult woman (18 years or above)",
+      "Belongs to BPL family",
+      "Has a valid Aadhaar card",
+      "No existing LPG connection in household",
+      "Must have a bank account"
+    ],
+    "benefits": "Free LPG connection with stove and first refill. Security deposit waived. Interest-free loan for stove cost.",
+    "documents_required": [
+      "Aadhaar card of applicant",
+      "BPL certificate or ration card",
+      "Bank account details",
+      "Address proof",
+      "Photographs",
+      "No LPG connection declaration"
+    ],
+    "application_process": "1. Visit nearest LPG distributor\n2. Fill PMUY application form\n3. Submit required documents\n4. Verification by distributor\n5. LPG connection provided within 7-10 days\n6. First refill delivered after connection",
+    "state": "All India",
+    "category": "energy",
+    "income_limit": 100000,
+    "official_link": "https://www.pmuy.gov.in"
+  },
+  {
+    "id": "ayushman_bharat",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "description": "National Health Protection Scheme that aims to provide health coverage to poor and vulnerable families. It provides cashless hospitalization coverage of ₹5,00,000 per family per year.",
+    "eligibility": [
+      "Families listed in SECC database",
+      "Rural households deprived based on deprivation criteria",
+      "Urban workers in unorganized sectors",
+      "Specific occupational categories of workers",
+      "No income limit - based on deprivation parameters"
+    ],
+    "benefits": "Health coverage of ₹5,00,000 per family per year for secondary and tertiary hospitalization. Cashless treatment at empaneled hospitals.",
+    "documents_required": [
+      "Aadhaar card",
+      "Ration card",
+      "SECC identification document",
+      "Photographs",
+      "Mobile number",
+      "Address proof",
+      "Family composition details"
+    ],
+    "application_process": "1. Check eligibility on PMJAY website\n2. Visit nearest empaneled hospital\n3. Submit application with documents\n4. Verification and enrollment\n5. Receive PMJAY card\n6. Avail cashless treatment at empaneled hospitals",
+    "state": "All India",
+    "category": "healthcare",
+    "income_limit": null,
+    "official_link": "https://www.pmjay.gov.in"
+  },
+  {
+    "id": "skill_india",
+    "name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "description": "Flagship scheme for skill development of youth to enable them to take up industry-relevant skill training that will help them in securing a better livelihood.",
+    "eligibility": [
+      "Age between 15-35 years",
+      "Indian citizen",
+      "Minimum 10th pass for some courses",
+      "Unemployed or seeking better employment",
+      "No prior skill training in same sector"
+    ],
+    "benefits": "Free skill training with certification. Placement assistance. Stipend during training for some courses. Recognition of prior learning.",
+    "documents_required": [
+      "Aadhaar card",
+      "Educational certificates",
+      "Bank account details",
+      "Photographs",
+      "Address proof",
+      "Mobile number",
+      "Birth certificate"
+    ],
+    "application_process": "1. Register on Skill India portal\n2. Choose skill course and training center\n3. Submit application with documents\n4. Attend training program\n5. Complete assessment\n6. Receive certification and placement support",
+    "state": "All India",
+    "category": "skill_development",
+    "income_limit": null,
+    "official_link": "https://skillindia.gov.in"
+  },
+  {
+    "id": "sukanya_samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "A government-backed savings scheme for the girl child to encourage parents to build a fund for their daughter's education and marriage expenses.",
+    "eligibility": [
+      "Girl child below 10 years of age",
+      "Maximum two girl children per family",
+      "Indian resident",
+      "Parents can open account on behalf of girl child",
+      "Valid for natural and adopted girl children"
+    ],
+    "benefits": "High interest rate (currently 7.6% per annum). Tax benefits under Section 80C. Minimum deposit of ₹250 per year. Maximum deposit of ₹1,50,000 per year.",
+    "documents_required": [
+      "Birth certificate of girl child",
+      "Aadhaar card of guardian",
+      "PAN card of guardian",
+      "Address proof of guardian",
+      "Photographs",
+      "Bank account details"
+    ],
+    "application_process": "1. Visit authorized bank or post office\n2. Fill SSY account opening form\n3. Submit required documents\n4. Deposit initial amount\n5. Account opened with passbook\n6. Regular deposits can be made anytime",
+    "state": "All India",
+    "category": "financial_inclusion",
+    "income_limit": null,
+    "official_link": "https://www.sukanyasamriddhi.gov.in"
+  },
+  {
+    "id": "mahila_cooperatives",
+    "name": "Mahila Coir Yojana",
+    "description": "A scheme to promote self-employment among rural women by providing them with training and financial assistance for setting up coir-based units.",
+    "eligibility": [
+      "Women aged 18-55 years",
+      "Rural area residents",
+      "Below poverty line or from weaker sections",
+      "Willing to undergo training",
+      "No regular employment"
+    ],
+    "benefits": "Free training in coir processing. 90% subsidy for equipment cost. Working capital assistance. Marketing support.",
+    "documents_required": [
+      "Aadhaar card",
+      "Age proof",
+      "Income certificate",
+      "Residence proof",
+      "Bank account details",
+      "Photographs",
+      "BPL certificate (if applicable)"
+    ],
+    "application_process": "1. Apply through Coir Board office\n2. Submit application with documents\n3. Selection for training program\n4. Complete 2-month training\n5. Submit project report for unit setup\n6. Receive subsidy and assistance",
+    "state": "Coconut producing states",
+    "category": "women_empowerment",
+    "income_limit": 100000,
+    "official_link": "https://coirboard.gov.in"
+  }
+]

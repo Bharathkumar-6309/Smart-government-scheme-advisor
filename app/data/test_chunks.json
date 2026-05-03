@@ -1,0 +1,3025 @@
+[
+  {
+    "chunk_id": "pm_kisan_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 5,
+    "text": "Scheme Name: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Description: A central sector scheme to provide income support to all landholder farmer families across the country, subject to certain exclusions, to supplement their financial needs for procuring various inputs related to agriculture and",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "general"
+    },
+    "text_length": 297,
+    "keywords": [
+      "central",
+      "pradhan mantri",
+      "agriculture",
+      "scheme",
+      "pradhan",
+      "samman",
+      "sector",
+      "nidhi",
+      "financial",
+      "support",
+      "mantri",
+      "provide",
+      "kisan",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 42
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_chunk_2",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 1,
+    "total_chunks": 5,
+    "text": "rocuring various inputs related to agriculture and allied activities. Eligibility Criteria: Small and marginal farmers Landholding farmer families cultivators and tenant farmers Annual income less than 6,00,000 Must have land records in their name Benefits: 6,000 per year in three equal",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "general"
+    },
+    "text_length": 287,
+    "keywords": [
+      "farmers",
+      "inputs",
+      "benefit",
+      "various",
+      "related",
+      "agriculture",
+      "allied",
+      "small",
+      "marginal",
+      "eligibility",
+      "lig",
+      "rocuring"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 41
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_chunk_3",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 2,
+    "total_chunks": 5,
+    "text": "their name Benefits: 6,000 per year in three equal installments of 2,000 each, transferred directly to the bank accounts of eligible farmer families. Required Documents: Aadhaar card Land records land documents Bank account details Residence proof Identity proof (Voter ID Driving License)",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "general"
+    },
+    "text_length": 289,
+    "keywords": [
+      "aadhaar",
+      "their",
+      "benefit",
+      "transferred",
+      "three",
+      "year",
+      "directly",
+      "accounts",
+      "installments",
+      "name",
+      "equal",
+      "bank",
+      "lig",
+      "card"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 42
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_chunk_4",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 3,
+    "total_chunks": 5,
+    "text": "ce proof Identity proof (Voter ID Driving License) Application Process: Register on PM-KISAN portal (pmkisan.gov.in) 2. Fill the application form with personal and land details 3. Upload required documents 4. Submit application for verification 5. Application verified by state authorities 6.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "general"
+    },
+    "text_length": 292,
+    "keywords": [
+      "application",
+      "driving",
+      "register",
+      "proof",
+      "portal",
+      "identity",
+      "state",
+      "form",
+      "fill",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 41
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_chunk_5",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 4,
+    "total_chunks": 5,
+    "text": "on 5. Application verified by state authorities 6. Amount transferred to registered bank account Category: agriculture State: All India",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "general"
+    },
+    "text_length": 135,
+    "keywords": [
+      "transferred",
+      "application",
+      "agriculture",
+      "verified",
+      "amount",
+      "authorities",
+      "state",
+      "registered",
+      "bank",
+      "account"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 19
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_name_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 44,
+    "keywords": [
+      "pradhan mantri",
+      "pradhan",
+      "samman",
+      "nidhi",
+      "mantri",
+      "kisan",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 6
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_description_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "A central sector scheme to provide income support to all landholder farmer families across the country, subject to certain exclusions, to supplement their financial needs for procuring various inputs related to agriculture and allied activities.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 245,
+    "keywords": [
+      "farmer",
+      "families",
+      "income",
+      "central",
+      "agriculture",
+      "scheme",
+      "financial",
+      "support",
+      "landholder",
+      "provide",
+      "across",
+      "sector"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 35
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_benefits_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "6,000 per year in three equal installments of 2,000 each, transferred directly to the bank accounts of eligible farmer families.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 128,
+    "keywords": [
+      "farmer",
+      "transferred",
+      "eligible",
+      "year",
+      "directly",
+      "accounts",
+      "installments",
+      "equal",
+      "bank",
+      "lig",
+      "three"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 20
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_application_process_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Register on PM-KISAN portal (pmkisan.gov.in) 2. Fill the application form with personal and land details 3. Upload required documents 4. Submit application for verification 5. Application verified by state authorities 6. Amount transferred to registered bank account",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 266,
+    "keywords": [
+      "land",
+      "application",
+      "register",
+      "personal",
+      "portal",
+      "state",
+      "form",
+      "with",
+      "upload",
+      "fill",
+      "pm",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 37
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_eligibility_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Small and marginal farmers | Landholding farmer families | cultivators and tenant farmers | Annual income less than 6,00,000 | Must have land records in their name",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 163,
+    "keywords": [
+      "farmers",
+      "farmer",
+      "families",
+      "cultivators",
+      "annual",
+      "landholding",
+      "marginal",
+      "tenant",
+      "small"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 27
+    }
+  },
+  {
+    "chunk_id": "pm_kisan_documents_required_chunk_1",
+    "scheme_id": "pm_kisan",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | Land records land documents | Bank account details | Residence proof | Identity proof (Voter ID Driving License)",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "agriculture",
+      "state": "All India",
+      "income_limit": 600000,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 127,
+    "keywords": [
+      "land",
+      "aadhaar",
+      "records",
+      "card",
+      "residence",
+      "bank",
+      "account",
+      "documents",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 21
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 5,
+    "text": "Scheme Name: Pradhan Mantri Awas Yojana (PMAY) Description: Housing for All initiative aimed at providing affordable housing to the urban poor by 2022. The mission addresses housing shortage through credit linked subsidy, affordable housing in partnership, and subsidy for beneficiary-led individual",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "general"
+    },
+    "text_length": 299,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "aimed",
+      "scheme",
+      "pradhan",
+      "awas",
+      "housing",
+      "providing",
+      "mantri",
+      "initiative",
+      "affordable",
+      "pm",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 41
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_chunk_2",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 1,
+    "total_chunks": 5,
+    "text": "ership, and subsidy for beneficiary-led individual house construction. Eligibility Criteria: Economically Weaker Sections (EWS) Low Income Groups (LIG) Middle Income Groups (MIG) Annual family income up to 18,00,000 for MIG-II Should not own a pucca house anywhere in India Benefits: Interest",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "general"
+    },
+    "text_length": 292,
+    "keywords": [
+      "benefit",
+      "economically",
+      "middle",
+      "individual",
+      "house",
+      "eligibility",
+      "sections",
+      "weaker",
+      "mig",
+      "lig",
+      "ews",
+      "groups",
+      "income",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 41
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_chunk_3",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 2,
+    "total_chunks": 5,
+    "text": "a pucca house anywhere in India Benefits: Interest subsidy of up to 6.50 on home loans for 20 years, reducing EMI burden. Maximum subsidy of 2.67 lakh for MIG-II category. Required Documents: Aadhaar card PAN card Income certificate Address proof Bank account details Photographs No-own-house",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "general"
+    },
+    "text_length": 292,
+    "keywords": [
+      "aadhaar",
+      "benefit",
+      "maximum",
+      "house",
+      "interest",
+      "reducing",
+      "loan",
+      "mig",
+      "anywhere",
+      "pucca",
+      "india",
+      "certificate",
+      "card",
+      "home",
+      "loans",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 45
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_chunk_4",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 3,
+    "total_chunks": 5,
+    "text": "roof Bank account details Photographs No-own-house declaration Application Process: Apply through Common Service Centers or online portal 2. Submit application with required documents 3. Verification by concerned authorities 4. Sanction of subsidy based on eligibility 5.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "general"
+    },
+    "text_length": 271,
+    "keywords": [
+      "application",
+      "details",
+      "roof",
+      "declaration",
+      "photographs",
+      "apply",
+      "common",
+      "ration",
+      "bank",
+      "lig",
+      "through",
+      "account",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 36
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_chunk_5",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 4,
+    "total_chunks": 5,
+    "text": "ies 4. Sanction of subsidy based on eligibility 5. Disbursement through bank account Category: housing State: All India",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "general"
+    },
+    "text_length": 119,
+    "keywords": [
+      "based",
+      "sanction",
+      "eligibility",
+      "housing",
+      "india",
+      "state",
+      "account",
+      "bank",
+      "lig",
+      "disbursement",
+      "through",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 18
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_name_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Pradhan Mantri Awas Yojana (PMAY)",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 33,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "pradhan",
+      "awas",
+      "mantri",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 5
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_description_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Housing for All initiative aimed at providing affordable housing to the urban poor by 2022. The mission addresses housing shortage through credit linked subsidy, affordable housing in partnership, and subsidy for beneficiary-led individual house construction.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 259,
+    "keywords": [
+      "poor",
+      "aimed",
+      "addresses",
+      "housing",
+      "providing",
+      "mission",
+      "initiative",
+      "urban",
+      "affordable",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 35
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_benefits_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Interest subsidy of up to 6.50 on home loans for 20 years, reducing EMI burden. Maximum subsidy of 2.67 lakh for MIG-II category.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 129,
+    "keywords": [
+      "maximum",
+      "interest",
+      "reducing",
+      "loan",
+      "lakh",
+      "mig",
+      "loans",
+      "home",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 23
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_application_process_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Apply through Common Service Centers or online portal 2. Submit application with required documents 3. Verification by concerned authorities 4. Sanction of subsidy based on eligibility 5. Disbursement through bank account",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 221,
+    "keywords": [
+      "application",
+      "service",
+      "portal",
+      "submit",
+      "apply",
+      "centers",
+      "online",
+      "common",
+      "with",
+      "lig",
+      "through",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 31
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_eligibility_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Economically Weaker Sections (EWS) | Low Income Groups (LIG) | Middle Income Groups (MIG) | Annual family income up to 18,00,000 for MIG-II | Should not own a pucca house anywhere in India",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 188,
+    "keywords": [
+      "annual",
+      "economically",
+      "middle",
+      "family",
+      "sections",
+      "weaker",
+      "mig",
+      "lig",
+      "ews",
+      "groups",
+      "income"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 33
+    }
+  },
+  {
+    "chunk_id": "pm_awas_yojana_documents_required_chunk_1",
+    "scheme_id": "pm_awas_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | PAN card | Income certificate | Address proof | Bank account details | Photographs | No-own-house declaration",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "All India",
+      "income_limit": 1800000,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 124,
+    "keywords": [
+      "aadhaar",
+      "proof",
+      "address",
+      "ration",
+      "bank",
+      "account",
+      "certificate",
+      "card",
+      "income",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 20
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 5,
+    "text": "Scheme Name: National Scholarship Portal (NSP) Description: Centralized platform for various scholarship schemes offered by central and state governments for students belonging to economically weaker sections, minority communities, and other deserving categories.",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "general"
+    },
+    "text_length": 263,
+    "keywords": [
+      "central",
+      "various",
+      "government",
+      "scheme",
+      "platform",
+      "schemes",
+      "portal",
+      "national",
+      "state",
+      "scholarship",
+      "offered",
+      "centralized"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 32
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_chunk_2",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 1,
+    "total_chunks": 5,
+    "text": "ority communities, and other deserving categories. Eligibility Criteria: Students from class 1 to post-graduation Minimum 50 marks in previous examination Annual family income less than 2,00,000 for SC ST Annual family income less than 1,00,000 for OBC Should be studying in recognized institution",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "general"
+    },
+    "text_length": 297,
+    "keywords": [
+      "previous",
+      "minimum",
+      "from",
+      "ority",
+      "deserving",
+      "marks",
+      "eligibility",
+      "students",
+      "other",
+      "lig",
+      "class"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 43
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_chunk_3",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 2,
+    "total_chunks": 5,
+    "text": "r OBC Should be studying in recognized institution Benefits: Monthly stipend ranging from 300 to 10,000 depending on the course and category. Complete fee reimbursement for eligible students. Required Documents: Aadhaar card Mark sheets of last examination Income certificate Caste certificate (if",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "general"
+    },
+    "text_length": 297,
+    "keywords": [
+      "aadhaar",
+      "benefit",
+      "monthly",
+      "ranging",
+      "from",
+      "stipend",
+      "should",
+      "recognized",
+      "depending",
+      "institution",
+      "lig",
+      "certificate",
+      "card",
+      "course",
+      "studying"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 42
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_chunk_4",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 3,
+    "total_chunks": 5,
+    "text": "amination Income certificate Caste certificate (if applicable) Bank account details Student ID proof Residence certificate Application Process: Register on National Scholarship Portal (scholarships.gov.in) 2. Select relevant scholarship scheme 3. Fill application form with academic details 4.",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "general"
+    },
+    "text_length": 293,
+    "keywords": [
+      "application",
+      "student",
+      "scheme",
+      "proof",
+      "caste",
+      "scholarship",
+      "bank",
+      "account",
+      "certificate",
+      "amination",
+      "income",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 36
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_chunk_5",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 4,
+    "total_chunks": 5,
+    "text": " 3. Fill application form with academic details 4. Upload required documents 5. Submit application for verification 6. Verification by institute and state authorities 7. Scholarship amount disbursed to bank account Category: education State: All India",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "general"
+    },
+    "text_length": 251,
+    "keywords": [
+      "education",
+      "application",
+      "required",
+      "academic",
+      "submit",
+      "state",
+      "form",
+      "scholarship",
+      "with",
+      "fill",
+      "upload",
+      "documents",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 35
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_name_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "National Scholarship Portal (NSP)",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 33,
+    "keywords": [
+      "national",
+      "portal",
+      "scholarship"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 4
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_description_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Centralized platform for various scholarship schemes offered by central and state governments for students belonging to economically weaker sections, minority communities, and other deserving categories.",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 203,
+    "keywords": [
+      "central",
+      "various",
+      "government",
+      "scheme",
+      "platform",
+      "schemes",
+      "governments",
+      "students",
+      "state",
+      "scholarship",
+      "offered",
+      "centralized"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 25
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_benefits_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Monthly stipend ranging from 300 to 10,000 depending on the course and category. Complete fee reimbursement for eligible students.",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 130,
+    "keywords": [
+      "monthly",
+      "eligible",
+      "from",
+      "stipend",
+      "depending",
+      "complete",
+      "lig",
+      "ranging",
+      "course",
+      "reimbursement"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 19
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_application_process_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 2,
+    "text": "Register on National Scholarship Portal (scholarships.gov.in) 2. Select relevant scholarship scheme 3. Fill application form with academic details 4. Upload required documents 5. Submit application for verification 6. Verification by institute and state authorities 7.",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 268,
+    "keywords": [
+      "application",
+      "select",
+      "register",
+      "scheme",
+      "portal",
+      "relevant",
+      "national",
+      "state",
+      "scholarship",
+      "fill"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 35
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_application_process_chunk_2",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 1,
+    "total_chunks": 2,
+    "text": "Verification by institute and state authorities 7. Scholarship amount disbursed to bank account",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 95,
+    "keywords": [
+      "amount",
+      "authorities",
+      "state",
+      "scholarship",
+      "disbursed",
+      "verification",
+      "bank",
+      "account",
+      "institute"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 13
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_eligibility_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Students from class 1 to post-graduation | Minimum 50 marks in previous examination | Annual family income less than 2,00,000 for SC ST | Annual family income less than 1,00,000 for OBC | Should be studying in recognized institution",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 232,
+    "keywords": [
+      "annual",
+      "previous",
+      "family",
+      "minimum",
+      "examination",
+      "from",
+      "marks",
+      "students",
+      "class",
+      "income"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 39
+    }
+  },
+  {
+    "chunk_id": "national_scholarship_portal_documents_required_chunk_1",
+    "scheme_id": "national_scholarship_portal",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | Mark sheets of last examination | Income certificate | Caste certificate (if applicable) | Bank account details | Student ID proof | Residence certificate",
+    "metadata": {
+      "scheme_name": "National Scholarship Portal (NSP)",
+      "category": "education",
+      "state": "All India",
+      "income_limit": 200000,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 169,
+    "keywords": [
+      "aadhaar",
+      "mark",
+      "last",
+      "examination",
+      "sheets",
+      "caste",
+      "certificate",
+      "card",
+      "income"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 27
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 4,
+    "text": "Scheme Name: Pradhan Mantri Ujjwala Yojana (PMUY) Description: A scheme aimed at providing LPG connections to women from BPL households to reduce health hazards caused by cooking with fossil fuels and to prevent indoor air pollution.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 233,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "aimed",
+      "scheme",
+      "pradhan",
+      "women",
+      "connections",
+      "providing",
+      "mantri",
+      "ujjwala",
+      "bpl",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 36
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_chunk_2",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 1,
+    "total_chunks": 4,
+    "text": "fossil fuels and to prevent indoor air pollution. Eligibility Criteria: Adult woman (18 years or above) Belongs to BPL family Has a valid Aadhaar card No existing LPG connection in household Must have a bank account Benefits: Free LPG connection with stove and first refill. Security deposit waived.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 299,
+    "keywords": [
+      "aadhaar",
+      "years",
+      "benefit",
+      "family",
+      "indoor",
+      "prevent",
+      "belongs",
+      "eligibility",
+      "adult",
+      "woman",
+      "lig",
+      "card",
+      "fuels",
+      "fossil",
+      "bpl"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 48
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_chunk_3",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 2,
+    "total_chunks": 4,
+    "text": "h stove and first refill. Security deposit waived. Interest-free loan for stove cost. Required Documents: Aadhaar card of applicant BPL certificate or ration card Bank account details Address proof Photographs No LPG connection declaration Application Process: Visit nearest LPG distributor 2.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 293,
+    "keywords": [
+      "aadhaar",
+      "application",
+      "stove",
+      "required",
+      "security",
+      "deposit",
+      "loan",
+      "first",
+      "ration",
+      "certificate",
+      "card",
+      "applicant",
+      "bpl"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 41
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_chunk_4",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 3,
+    "total_chunks": 4,
+    "text": "lication Process: Visit nearest LPG distributor 2. Fill PMUY application form 3. Submit required documents 4. Verification by distributor 5. LPG connection provided within 7-10 days 6. First refill delivered after connection Category: energy State: All India",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 258,
+    "keywords": [
+      "application",
+      "visit",
+      "lication",
+      "required",
+      "pmuy",
+      "submit",
+      "distributor",
+      "state",
+      "form",
+      "fill",
+      "nearest",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 37
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_name_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 36,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "pradhan",
+      "mantri",
+      "ujjwala",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 5
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_description_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "A scheme aimed at providing LPG connections to women from BPL households to reduce health hazards caused by cooking with fossil fuels and to prevent indoor air pollution.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 170,
+    "keywords": [
+      "hazards",
+      "aimed",
+      "scheme",
+      "from",
+      "women",
+      "connections",
+      "reduce",
+      "providing",
+      "health",
+      "households",
+      "bpl"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 28
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_benefits_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Free LPG connection with stove and first refill. Security deposit waived. Interest-free loan for stove cost.",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 108,
+    "keywords": [
+      "stove",
+      "connection",
+      "security",
+      "deposit",
+      "loan",
+      "first",
+      "with",
+      "free"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 16
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_application_process_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Visit nearest LPG distributor 2. Fill PMUY application form 3. Submit required documents 4. Verification by distributor 5. LPG connection provided within 7-10 days 6. First refill delivered after connection",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 206,
+    "keywords": [
+      "application",
+      "visit",
+      "required",
+      "pmuy",
+      "submit",
+      "distributor",
+      "form",
+      "fill",
+      "documents",
+      "nearest",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 30
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_eligibility_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Adult woman (18 years or above) | Belongs to BPL family | Has a valid Aadhaar card | No existing LPG connection in household | Must have a bank account",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 151,
+    "keywords": [
+      "aadhaar",
+      "years",
+      "family",
+      "connection",
+      "belongs",
+      "valid",
+      "adult",
+      "woman",
+      "card",
+      "bpl",
+      "existing"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 30
+    }
+  },
+  {
+    "chunk_id": "ujjwala_yojana_documents_required_chunk_1",
+    "scheme_id": "ujjwala_yojana",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card of applicant | BPL certificate or ration card | Bank account details | Address proof | Photographs | No LPG connection declaration",
+    "metadata": {
+      "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "energy",
+      "state": "All India",
+      "income_limit": 100000,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 143,
+    "keywords": [
+      "aadhaar",
+      "address",
+      "ration",
+      "bank",
+      "account",
+      "certificate",
+      "card",
+      "applicant",
+      "bpl",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 24
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 5,
+    "text": "Scheme Name: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) Description: National Health Protection Scheme that aims to provide health coverage to poor and vulnerable families. It provides cashless hospitalization coverage of 5,00,000 per family per year.",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 268,
+    "keywords": [
+      "yojana",
+      "arogya",
+      "pradhan mantri",
+      "scheme",
+      "pradhan",
+      "bharat",
+      "protection",
+      "national",
+      "ayushman",
+      "mantri",
+      "health",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 37
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_chunk_2",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 1,
+    "total_chunks": 5,
+    "text": "lization coverage of 5,00,000 per family per year. Eligibility Criteria: Families listed in SECC database Rural households deprived based on deprivation criteria Urban workers in unorganized sectors Specific occupational categories of workers No income limit - based on deprivation parameters",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 292,
+    "keywords": [
+      "families",
+      "coverage",
+      "family",
+      "database",
+      "lization",
+      "eligibility",
+      "rural",
+      "lig",
+      "listed",
+      "secc",
+      "households"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 40
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_chunk_3",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 2,
+    "total_chunks": 5,
+    "text": "No income limit - based on deprivation parameters Benefits: Health coverage of 5,00,000 per family per year for secondary and tertiary hospitalization. Cashless treatment at empaneled hospitals. Required Documents: Aadhaar card Ration card SECC identification document Photographs Mobile number",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 294,
+    "keywords": [
+      "aadhaar",
+      "benefit",
+      "based",
+      "coverage",
+      "limit",
+      "deprivation",
+      "family",
+      "year",
+      "parameters",
+      "ration",
+      "health",
+      "card",
+      "secondary",
+      "income"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 39
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_chunk_4",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 3,
+    "total_chunks": 5,
+    "text": "identification document Photographs Mobile number Address proof Family composition details Application Process: Check eligibility on PMJAY website 2. Visit nearest empaneled hospital 3. Submit application with documents 4. Verification and enrollment 5. Receive PMJAY card 6.",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 275,
+    "keywords": [
+      "application",
+      "document",
+      "composition",
+      "family",
+      "proof",
+      "details",
+      "identification",
+      "number",
+      "address",
+      "mobile",
+      "lig",
+      "card",
+      "pm",
+      "photographs"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 36
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_chunk_5",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 4,
+    "total_chunks": 5,
+    "text": "rification and enrollment 5. Receive PMJAY card 6. Avail cashless treatment at empaneled hospitals Category: healthcare State: All India",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 136,
+    "keywords": [
+      "hospitals",
+      "rification",
+      "cashless",
+      "receive",
+      "card",
+      "pmjay",
+      "empaneled",
+      "state",
+      "treatment",
+      "enrollment",
+      "healthcare",
+      "avail",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 19
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_name_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 59,
+    "keywords": [
+      "yojana",
+      "arogya",
+      "pradhan mantri",
+      "pradhan",
+      "bharat",
+      "ayushman",
+      "mantri",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 8
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_description_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "National Health Protection Scheme that aims to provide health coverage to poor and vulnerable families. It provides cashless hospitalization coverage of 5,00,000 per family per year.",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 182,
+    "keywords": [
+      "aims",
+      "coverage",
+      "poor",
+      "scheme",
+      "protection",
+      "that",
+      "national",
+      "provide",
+      "health"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 26
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_benefits_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Health coverage of 5,00,000 per family per year for secondary and tertiary hospitalization. Cashless treatment at empaneled hospitals.",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 134,
+    "keywords": [
+      "coverage",
+      "family",
+      "year",
+      "tertiary",
+      "cashless",
+      "empaneled",
+      "treatment",
+      "health",
+      "secondary"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 18
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_application_process_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Check eligibility on PMJAY website 2. Visit nearest empaneled hospital 3. Submit application with documents 4. Verification and enrollment 5. Receive PMJAY card 6. Avail cashless treatment at empaneled hospitals",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 211,
+    "keywords": [
+      "website",
+      "application",
+      "visit",
+      "pmjay",
+      "hospital",
+      "empaneled",
+      "check",
+      "eligibility",
+      "submit",
+      "lig",
+      "card",
+      "nearest",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 30
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_eligibility_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Families listed in SECC database | Rural households deprived based on deprivation criteria | Urban workers in unorganized sectors | Specific occupational categories of workers | No income limit - based on deprivation parameters",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 227,
+    "keywords": [
+      "families",
+      "based",
+      "database",
+      "deprivation",
+      "listed",
+      "deprived",
+      "criteria",
+      "rural",
+      "secc",
+      "households"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 34
+    }
+  },
+  {
+    "chunk_id": "ayushman_bharat_documents_required_chunk_1",
+    "scheme_id": "ayushman_bharat",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | Ration card | SECC identification document | Photographs | Mobile number | Address proof | Family composition details",
+    "metadata": {
+      "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+      "category": "healthcare",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 132,
+    "keywords": [
+      "aadhaar",
+      "document",
+      "identification",
+      "number",
+      "ration",
+      "mobile",
+      "card",
+      "secc",
+      "photographs"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 21
+    }
+  },
+  {
+    "chunk_id": "skill_india_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 4,
+    "text": "Scheme Name: Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY) Description: Flagship scheme for skill development of youth to enable them to take up industry-relevant skill training that will help them in securing a better livelihood.",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 250,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "scheme",
+      "pradhan",
+      "vikas",
+      "flagship",
+      "skill",
+      "mission",
+      "development",
+      "mantri",
+      "india",
+      "kaushal",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 38
+    }
+  },
+  {
+    "chunk_id": "skill_india_chunk_2",
+    "scheme_id": "skill_india",
+    "chunk_index": 1,
+    "total_chunks": 4,
+    "text": "at will help them in securing a better livelihood. Eligibility Criteria: Age between 15-35 years Indian citizen Minimum 10th pass for some courses Unemployed or seeking better employment No prior skill training in same sector Benefits: Free skill training with certification. Placement assistance.",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 297,
+    "keywords": [
+      "them",
+      "years",
+      "benefit",
+      "help",
+      "between",
+      "citizen",
+      "securing",
+      "assistance",
+      "skill",
+      "will",
+      "indian",
+      "eligibility",
+      "lig",
+      "better"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 43
+    }
+  },
+  {
+    "chunk_id": "skill_india_chunk_3",
+    "scheme_id": "skill_india",
+    "chunk_index": 2,
+    "total_chunks": 4,
+    "text": "training with certification. Placement assistance. Stipend during training for some courses. Recognition of prior learning. Required Documents: Aadhaar card Educational certificates Bank account details Photographs Address proof Mobile number Birth certificate Application Process: Register on Skill",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 299,
+    "keywords": [
+      "education",
+      "aadhaar",
+      "application",
+      "prior",
+      "recognition",
+      "required",
+      "assistance",
+      "skill",
+      "placement",
+      "during",
+      "stipend",
+      "some",
+      "with",
+      "training",
+      "certificate",
+      "card"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 36
+    }
+  },
+  {
+    "chunk_id": "skill_india_chunk_4",
+    "scheme_id": "skill_india",
+    "chunk_index": 3,
+    "total_chunks": 4,
+    "text": "certificate Application Process: Register on Skill India portal 2. Choose skill course and training center 3. Submit application with documents 4. Attend training program 5. Complete assessment 6. Receive certification and placement support Category: skill_development State: All India",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 285,
+    "keywords": [
+      "choose",
+      "application",
+      "register",
+      "skill",
+      "portal",
+      "state",
+      "support",
+      "development",
+      "india",
+      "certificate",
+      "course",
+      "pm",
+      "training"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 38
+    }
+  },
+  {
+    "chunk_id": "skill_india_name_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 65,
+    "keywords": [
+      "yojana",
+      "pradhan mantri",
+      "vikas",
+      "pradhan",
+      "skill",
+      "mission",
+      "mantri",
+      "india",
+      "kaushal",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 10
+    }
+  },
+  {
+    "chunk_id": "skill_india_description_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Flagship scheme for skill development of youth to enable them to take up industry-relevant skill training that will help them in securing a better livelihood.",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 158,
+    "keywords": [
+      "them",
+      "youth",
+      "enable",
+      "scheme",
+      "flagship",
+      "skill",
+      "development",
+      "training",
+      "take",
+      "pm"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 25
+    }
+  },
+  {
+    "chunk_id": "skill_india_benefits_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Free skill training with certification. Placement assistance. Stipend during training for some courses. Recognition of prior learning.",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 134,
+    "keywords": [
+      "recognition",
+      "assistance",
+      "skill",
+      "placement",
+      "during",
+      "stipend",
+      "some",
+      "with",
+      "training",
+      "free"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 17
+    }
+  },
+  {
+    "chunk_id": "skill_india_application_process_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Register on Skill India portal 2. Choose skill course and training center 3. Submit application with documents 4. Attend training program 5. Complete assessment 6. Receive certification and placement support",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 207,
+    "keywords": [
+      "choose",
+      "application",
+      "register",
+      "skill",
+      "portal",
+      "center",
+      "submit",
+      "support",
+      "india",
+      "course",
+      "training"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 30
+    }
+  },
+  {
+    "chunk_id": "skill_india_eligibility_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Age between 15-35 years | Indian citizen | Minimum 10th pass for some courses | Unemployed or seeking better employment | No prior skill training in same sector",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 160,
+    "keywords": [
+      "years",
+      "between",
+      "citizen",
+      "minimum",
+      "skill",
+      "unemployed",
+      "indian",
+      "some",
+      "pass",
+      "courses",
+      "seeking"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 28
+    }
+  },
+  {
+    "chunk_id": "skill_india_documents_required_chunk_1",
+    "scheme_id": "skill_india",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | Educational certificates | Bank account details | Photographs | Address proof | Mobile number | Birth certificate",
+    "metadata": {
+      "scheme_name": "Skill India Mission - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "skill_development",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 128,
+    "keywords": [
+      "education",
+      "aadhaar",
+      "proof",
+      "photographs",
+      "educational",
+      "certificates",
+      "address",
+      "bank",
+      "account",
+      "certificate",
+      "card",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 20
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 4,
+    "text": "Scheme Name: Sukanya Samriddhi Yojana (SSY) Description: A government-backed savings scheme for the girl child to encourage parents to build a fund for their daughter s education and marriage expenses. Eligibility Criteria: Girl child below 10 years of age Maximum two girl children per family",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 293,
+    "keywords": [
+      "education",
+      "yojana",
+      "samriddhi",
+      "government",
+      "scheme",
+      "parents",
+      "savings",
+      "encourage",
+      "girl",
+      "sukanya",
+      "lig",
+      "child"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 45
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_chunk_2",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 1,
+    "total_chunks": 4,
+    "text": "years of age Maximum two girl children per family Indian resident Parents can open account on behalf of girl child Valid for natural and adopted girl children Benefits: High interest rate (currently 7.6 per annum). Tax benefits under Section 80C. Minimum deposit of 250 per year.",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 279,
+    "keywords": [
+      "resident",
+      "years",
+      "benefit",
+      "maximum",
+      "children",
+      "family",
+      "open",
+      "indian",
+      "parents",
+      "girl",
+      "account"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 46
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_chunk_3",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 2,
+    "total_chunks": 4,
+    "text": "nder Section 80C. Minimum deposit of 250 per year. Maximum deposit of 1,50,000 per year. Required Documents: Birth certificate of girl child Aadhaar card of guardian PAN card of guardian Address proof of guardian Photographs Bank account details Application Process: Visit authorized bank or post",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 296,
+    "keywords": [
+      "aadhaar",
+      "application",
+      "maximum",
+      "section",
+      "minimum",
+      "required",
+      "nder",
+      "deposit",
+      "girl",
+      "certificate",
+      "card",
+      "birth"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 45
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_chunk_4",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 3,
+    "total_chunks": 4,
+    "text": "Application Process: Visit authorized bank or post office 2. Fill SSY account opening form 3. Submit required documents 4. Deposit initial amount 5. Account opened with passbook 6. Regular deposits can be made anytime Category: financial_inclusion State: All India",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "general"
+    },
+    "text_length": 264,
+    "keywords": [
+      "office",
+      "application",
+      "visit",
+      "inclusion",
+      "authorized",
+      "opening",
+      "financial",
+      "state",
+      "form",
+      "bank",
+      "fill",
+      "account",
+      "post"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 39
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_name_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Sukanya Samriddhi Yojana (SSY)",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 30,
+    "keywords": [
+      "yojana",
+      "samriddhi",
+      "sukanya"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 4
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_description_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "A government-backed savings scheme for the girl child to encourage parents to build a fund for their daughter s education and marriage expenses.",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 144,
+    "keywords": [
+      "education",
+      "their",
+      "daughter",
+      "government",
+      "scheme",
+      "fund",
+      "parents",
+      "savings",
+      "encourage",
+      "girl",
+      "child",
+      "build"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 23
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_benefits_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "High interest rate (currently 7.6 per annum). Tax benefits under Section 80C. Minimum deposit of 250 per year. Maximum deposit of 1,50,000 per year.",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 148,
+    "keywords": [
+      "benefit",
+      "section",
+      "rate",
+      "maximum",
+      "minimum",
+      "under",
+      "interest",
+      "deposit",
+      "benefits",
+      "high"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 24
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_application_process_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Visit authorized bank or post office 2. Fill SSY account opening form 3. Submit required documents 4. Deposit initial amount 5. Account opened with passbook 6. Regular deposits can be made anytime",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 196,
+    "keywords": [
+      "office",
+      "visit",
+      "authorized",
+      "opening",
+      "submit",
+      "form",
+      "bank",
+      "fill",
+      "account",
+      "post"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 32
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_eligibility_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Girl child below 10 years of age | Maximum two girl children per family | Indian resident | Parents can open account on behalf of girl child | Valid for natural and adopted girl children",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 186,
+    "keywords": [
+      "resident",
+      "years",
+      "maximum",
+      "children",
+      "family",
+      "below",
+      "indian",
+      "girl",
+      "child"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 35
+    }
+  },
+  {
+    "chunk_id": "sukanya_samriddhi_documents_required_chunk_1",
+    "scheme_id": "sukanya_samriddhi",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Birth certificate of girl child | Aadhaar card of guardian | PAN card of guardian | Address proof of guardian | Photographs | Bank account details",
+    "metadata": {
+      "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "financial_inclusion",
+      "state": "All India",
+      "income_limit": null,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 146,
+    "keywords": [
+      "aadhaar",
+      "guardian",
+      "child",
+      "girl",
+      "address",
+      "certificate",
+      "card",
+      "birth"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 26
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 4,
+    "text": "Scheme Name: Mahila Coir Yojana Description: A scheme to promote self-employment among rural women by providing them with training and financial assistance for setting up coir-based units. Eligibility Criteria: Women aged 18-55 years Rural area residents Below poverty line or from weaker sections",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 297,
+    "keywords": [
+      "yojana",
+      "scheme",
+      "promote",
+      "assistance",
+      "women",
+      "financial",
+      "mahila",
+      "providing",
+      "among",
+      "lig",
+      "rural",
+      "coir"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 43
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_chunk_2",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 1,
+    "total_chunks": 4,
+    "text": "sidents Below poverty line or from weaker sections Willing to undergo training No regular employment Benefits: Free training in coir processing. 90 subsidy for equipment cost. Working capital assistance. Marketing support.",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 222,
+    "keywords": [
+      "sidents",
+      "willing",
+      "benefit",
+      "undergo",
+      "line",
+      "assistance",
+      "below",
+      "from",
+      "poverty",
+      "weaker",
+      "support",
+      "training",
+      "sections",
+      "pm",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 31
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_chunk_3",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 2,
+    "total_chunks": 4,
+    "text": "st. Working capital assistance. Marketing support. Required Documents: Aadhaar card Age proof Income certificate Residence proof Bank account details Photographs BPL certificate (if applicable) Application Process: Apply through Coir Board office 2. Submit application with documents 3.",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 286,
+    "keywords": [
+      "aadhaar",
+      "application",
+      "marketing",
+      "proof",
+      "required",
+      "assistance",
+      "working",
+      "support",
+      "capital",
+      "residence",
+      "certificate",
+      "card",
+      "bpl",
+      "income"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 37
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_chunk_4",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 3,
+    "total_chunks": 4,
+    "text": "ard office 2. Submit application with documents 3. Selection for training program 4. Complete 2-month training 5. Submit project report for unit setup 6. Receive subsidy and assistance Category: women_empowerment State: Coconut producing states",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "general"
+    },
+    "text_length": 244,
+    "keywords": [
+      "empowerment",
+      "office",
+      "application",
+      "selection",
+      "assistance",
+      "submit",
+      "state",
+      "complete",
+      "with",
+      "training",
+      "documents",
+      "program",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "general",
+      "word_count": 34
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_name_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Mahila Coir Yojana",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "scheme_name",
+      "field_name": "name"
+    },
+    "text_length": 18,
+    "keywords": [
+      "yojana",
+      "mahila",
+      "coir"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "scheme_name",
+      "word_count": 3
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_description_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "A scheme to promote self-employment among rural women by providing them with training and financial assistance for setting up coir-based units.",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "description",
+      "field_name": "description"
+    },
+    "text_length": 143,
+    "keywords": [
+      "them",
+      "scheme",
+      "promote",
+      "assistance",
+      "women",
+      "financial",
+      "providing",
+      "with",
+      "among",
+      "training",
+      "rural"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "description",
+      "word_count": 21
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_benefits_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Free training in coir processing. 90 subsidy for equipment cost. Working capital assistance. Marketing support.",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "benefits",
+      "field_name": "benefits"
+    },
+    "text_length": 111,
+    "keywords": [
+      "coir",
+      "marketing",
+      "assistance",
+      "equipment",
+      "working",
+      "support",
+      "training",
+      "free",
+      "capital",
+      "pm",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "benefits",
+      "word_count": 15
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_application_process_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Apply through Coir Board office 2. Submit application with documents 3. Selection for training program 4. Complete 2-month training 5. Submit project report for unit setup 6. Receive subsidy and assistance",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "application_process",
+      "field_name": "application_process"
+    },
+    "text_length": 205,
+    "keywords": [
+      "office",
+      "application",
+      "board",
+      "selection",
+      "assistance",
+      "submit",
+      "apply",
+      "with",
+      "documents",
+      "through",
+      "coir",
+      "subsidy"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "application_process",
+      "word_count": 31
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_eligibility_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Women aged 18-55 years | Rural area residents | Below poverty line or from weaker sections | Willing to undergo training | No regular employment",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "eligibility_criteria",
+      "field_name": "eligibility"
+    },
+    "text_length": 144,
+    "keywords": [
+      "years",
+      "line",
+      "aged",
+      "women",
+      "below",
+      "from",
+      "poverty",
+      "rural",
+      "area",
+      "residents"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "eligibility_criteria",
+      "word_count": 25
+    }
+  },
+  {
+    "chunk_id": "mahila_cooperatives_documents_required_chunk_1",
+    "scheme_id": "mahila_cooperatives",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "text": "Aadhaar card | Age proof | Income certificate | Residence proof | Bank account details | Photographs | BPL certificate (if applicable)",
+    "metadata": {
+      "scheme_name": "Mahila Coir Yojana",
+      "category": "women_empowerment",
+      "state": "Coconut producing states",
+      "income_limit": 100000,
+      "chunk_type": "required_documents",
+      "field_name": "documents_required"
+    },
+    "text_length": 134,
+    "keywords": [
+      "aadhaar",
+      "proof",
+      "residence",
+      "bank",
+      "account",
+      "certificate",
+      "card",
+      "bpl",
+      "income",
+      "details"
+    ],
+    "embedding_metadata": {
+      "created_at": "2024-01-01T00:00:00Z",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "text_type": "required_documents",
+      "word_count": 22
+    }
+  }
+]
